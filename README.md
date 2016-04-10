@@ -2,4 +2,4 @@
 
 1. Open a terminal.
 2. Run  "karma start karma.conf.js"
-	Resulst will display in console.
+	Results will display in console.
